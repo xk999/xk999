@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xk999&layout=compact)](https://github.com/xk999/github-readme-stats)
 
 <!--
 **xk999/xk999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
