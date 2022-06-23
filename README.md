@@ -1,5 +1,8 @@
 ### Hi there 👋 
 
+- 🌱 I’m currently learning QA automation
+- 📫 How to reach me: [telegram](https://t.me/xk_999)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xk999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
