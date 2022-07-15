@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 - 🌱 I’m currently learning QA automation
-- 📫 How to reach me: [email](mailto:xeniqqa@gmail.com) | [telegram](https://t.me/xk_999)
+- 📫 How to reach me: [telegram](https://t.me/xk_999) | [微信](https://i.imgur.com/wJPbxIh.jpeg) | [email](mailto:xeniqqa@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xk999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
